@@ -1,0 +1,15 @@
+input {
+    width: 100%;
+}
+
+.todoitem container {
+    text-align: left;
+}
+
+.kg-row {
+    margin: 20px 10px;
+}
+
+.kg-button {
+    min-width: 80px;
+}
